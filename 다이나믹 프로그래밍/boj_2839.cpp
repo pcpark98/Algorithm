@@ -1,5 +1,3 @@
-// 백준 2839번 설탕 배달
-
 #include <iostream>
 #include <vector>
 using namespace std;
